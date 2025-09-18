@@ -1,0 +1,11 @@
+G:\PRG\String\p01\p01\bin\Debug\p01.exe.config
+G:\PRG\String\p01\p01\bin\Debug\p01.exe
+G:\PRG\String\p01\p01\bin\Debug\p01.pdb
+G:\PRG\String\p01\p01\obj\Debug\p01.csproj.AssemblyReference.cache
+G:\PRG\String\p01\p01\obj\Debug\p01.csproj.SuggestedBindingRedirects.cache
+G:\PRG\String\p01\p01\obj\Debug\p01.Form1.resources
+G:\PRG\String\p01\p01\obj\Debug\p01.Properties.Resources.resources
+G:\PRG\String\p01\p01\obj\Debug\p01.csproj.GenerateResource.cache
+G:\PRG\String\p01\p01\obj\Debug\p01.csproj.CoreCompileInputs.cache
+G:\PRG\String\p01\p01\obj\Debug\p01.exe
+G:\PRG\String\p01\p01\obj\Debug\p01.pdb
