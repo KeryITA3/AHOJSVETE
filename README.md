@@ -1,2 +1,2 @@
 # AHOJSVETE
-WEbová aplikace pro kebabaře
+WEbová aplikace na staticky web pro kebabaře
